@@ -1,0 +1,33 @@
+
+NO  ./textures/kon'_v_vakuume.xpm
+
+EA   ./textures/rainbow_viking.xpm
+
+SO     ./textures/kotomedved.xpm
+WE     ./textures/zhdun.xpm
+
+
+
+
+
+
+
+S   ./textures/zhdun.xpm
+R 0008000 0008000
+
+C    0,0,0
+F      0,255,255
+
+                
+   1111111111111111111
+   1000000000000000221
+   1000000011100121221111121
+   1W00000012000201002111111
+   1000000012000110001
+   10000000110N00000011
+    11111111 111111
+ 
+  
+  
+ 
+ 
